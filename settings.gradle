@@ -1,0 +1,5 @@
+rootProject.name = "Aufgabe06"
+include 'Message'
+include 'Server'
+include 'Client'
+

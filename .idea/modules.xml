@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.medieninformatik.Aufgabe06.iml" filepath="$PROJECT_DIR$/.idea/modules/de.medieninformatik.Aufgabe06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/de.medieninformatik.Aufgabe06.Client.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/de.medieninformatik.Aufgabe06.Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/de.medieninformatik.Aufgabe06.Client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/de.medieninformatik.Aufgabe06.Client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/de.medieninformatik.Aufgabe06.Client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/de.medieninformatik.Aufgabe06.Client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Message/de.medieninformatik.Aufgabe06.Message.iml" filepath="$PROJECT_DIR$/.idea/modules/Message/de.medieninformatik.Aufgabe06.Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Message/de.medieninformatik.Aufgabe06.Message.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Message/de.medieninformatik.Aufgabe06.Message.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Message/de.medieninformatik.Aufgabe06.Message.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Message/de.medieninformatik.Aufgabe06.Message.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/de.medieninformatik.Aufgabe06.Server.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/de.medieninformatik.Aufgabe06.Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/de.medieninformatik.Aufgabe06.Server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/de.medieninformatik.Aufgabe06.Server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/de.medieninformatik.Aufgabe06.Server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/de.medieninformatik.Aufgabe06.Server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.medieninformatik.Aufgabe06.main.iml" filepath="$PROJECT_DIR$/.idea/modules/de.medieninformatik.Aufgabe06.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.medieninformatik.Aufgabe06.test.iml" filepath="$PROJECT_DIR$/.idea/modules/de.medieninformatik.Aufgabe06.test.iml" />
+    </modules>
+  </component>
+</project>

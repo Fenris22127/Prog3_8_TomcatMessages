@@ -1,0 +1,29 @@
+plugins {
+    id 'org.openjfx.javafxplugin'
+}
+
+application {
+    mainModule = 'Aufgabe06.Client.main'
+    mainClass = 'de.medieninformatik.Client.Main'
+}
+
+javafx {
+    version = '17'
+    modules = ['javafx.controls']
+}
+
+run {
+    standardInput = System.in
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': application.mainClassName
+        )
+    }
+}
+
+dependencies {
+    implementation project(':Message')
+}
